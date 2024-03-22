@@ -1,4 +1,9 @@
 {
+    "autoload": {
+        "psr-4": {
+            "ScubaPHP\\": "src/"
+        }
+    },
     "name": "davidmeth/scuba-php",
     "description": "\"Framework\" entre aspas para o desafio de sete dias",
     "type": "project",
